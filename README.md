@@ -21,3 +21,9 @@ If you'd like to contribute by extending the list, follow the [**contributing gu
 
 
 </span>
+
+## License
+
+TRIPPY ARCHIVES doesn't own any contents linked in these pages. We don't profit by archiving these and are fully sourced by contributions. You're free to use our lists (note that this **does not** extend to the source material) in any way, shape of form. Thus, **[we use CC0](https://creativecommons.org/public-domain/cc0/)**
+
+![CC0 Mark](./CC0.svg)
