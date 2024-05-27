@@ -10,3 +10,9 @@ TRIPPY ARCHIVES is a repository for photos, videos and music with the sole purpo
 🖖 ***Peace, see you on the flipside!***
 
 <!-- TODO: Add buttons -->
+
+<span align="center">
+
+[**Videos & Clips**](https://github.com/trippyarchives/archive/blob/main/videos.md)
+
+</span>
