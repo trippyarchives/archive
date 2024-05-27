@@ -7,6 +7,8 @@ TRIPPY ARCHIVES
 
 TRIPPY ARCHIVES is a repository for photos, videos and music with the sole purpose of giving you peace of mind when consuming psychoactive substances. All entries are hand-picked and reviews, and you can choose what you'd like to see from the directories above this text, or from the links below.
 
+If you'd like to contribute by extending the list, follow the [**contributing guide**](https://github.com/trippyarchives/archive/blob/main/CONTRIBUTING.md)
+
 🖖 ***Peace, see you on the flipside!***
 
 <!-- TODO: Add buttons -->
