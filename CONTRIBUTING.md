@@ -4,7 +4,7 @@ Contributing to the archive is **very** easy, you can even choose the way to do 
 
 ## Without a GitHub account
 
-If you don't have a GitHub account, you can just email <a href="mailto:silly@goose.love">silly@goose.love</a>, the organization email. We'll create the commit for you, and you'll be able to contribute without having a GitHub account. Note that it's recommended to create a GitHub account if you plan to contribute more than once.
+If you don't have a GitHub account, you can just email <a href="mailto:blyxyas@gmail.com">blyxyas@gmail.com</a>, the organization email. We'll create the commit for you, and you'll be able to contribute without having a GitHub account. Note that it's recommended to create a GitHub account if you plan to contribute more than once.
 
 ## With a GitHub account
 
