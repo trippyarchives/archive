@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img alt="TRIPPY logo" src="https://raw.githubusercontent.com/trippyarchives/archive/main/TRIPPY.svg" width="100%"></img>
+<img alt="TRIPPY logo" src="https://raw.githubusercontent.com/trippyarchives/archive/main/TRIPPY.svg" width="100%" />
 <br>
 TRIPPY ARCHIVES
 
