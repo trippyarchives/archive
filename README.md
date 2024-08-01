@@ -1,6 +1,7 @@
 <h1 align="center">
 
-![TRIPPY logo](./TRIPPY.svg)
+<img alt="TRIPPY logo" src="https://raw.githubusercontent.com/trippyarchives/archive/main/TRIPPY.svg" width="100%"></img>
+<br>
 TRIPPY ARCHIVES
 
 </h1>
@@ -15,10 +16,8 @@ If you'd like to contribute by extending the list, follow the [**contributing gu
 
 <span align="center">
 
-[**Videos & Clips**](https://github.com/trippyarchives/archive/blob/main/videos.md) |
-[**Music**](https://github.com/trippyarchives/archive/blob/main/videos.md)
-
-
+<a href="https://github.com/trippyarchives/archive/blob/main/videos.md"><b>Videos & Clips</b></a> |
+<a href="https://github.com/trippyarchives/archive/blob/main/music.md"><b>Music</b></a>
 
 </span>
 
