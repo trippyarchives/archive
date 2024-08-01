@@ -14,3 +14,4 @@ If you don't like a video, don't hesitate to go see the next!
 - [Growing Plants in 4K Time Lapse Compilation (5+ Years)](https://youtu.be/wEYid_Fo_Uw?si=z4TjhLoFKoipAWac)
 - [Make a Native Terrarium with me (Satisfying and Relaxing Build)](https://youtu.be/j2WnzJz4DEs?si=kx0aJrhqmAKvPjnD)
 - [TAS Visuals X David Starfire - The Canyon 360VR](https://youtu.be/7ohzYII08eQ?si=ycO3ahbOj47fSkF1)
+- [Take A Slice (Fan Lyrics Video)](https://music.youtube.com/watch?v=WS0ZqIWSy84&si=cnW7G5GTB6dTpqaZ)

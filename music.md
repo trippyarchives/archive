@@ -25,3 +25,4 @@ Note that the music found here can be in any language. If you don't like a song,
 - [*2 hours of chill video game music*, playlist by alf](https://music.youtube.com/watch?v=JJis0sld2cM&si=vWchVWtjG-xH3fyE)
 - [*Vengo dalla Luna* by Måneskin](https://music.youtube.com/watch?v=4X0CaN5RU0M&si=oxx-ekDF4-Rfns6W)
 - [*silly shark core*, playlist by honey!!](https://music.youtube.com/watch?v=7FEhvFgBSq4&si=xvAbFxDRY7G1_Kgd)
+- [Take A Slice, by Glass Animals](https://music.youtube.com/watch?v=WS0ZqIWSy84&si=cnW7G5GTB6dTpqaZ)
